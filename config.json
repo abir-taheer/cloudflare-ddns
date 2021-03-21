@@ -1,0 +1,19 @@
+{
+  "auth": {
+    "token": "xxx"
+  },
+  "records": [
+    {
+      "zoneName": "taheer.me",
+      "name": "abir.taheer.me",
+      "ttl": 300,
+      "proxied": false
+    },
+    {
+      "zoneName": "abir.photos",
+      "name": "cache.abir.photos",
+      "ttl": 300,
+      "proxied": true
+    }
+  ]
+}

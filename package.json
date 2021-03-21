@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "axios": "^0.21.1",
+        "cloudflare": "^2.7.0"
+    },
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    },
+    "prettier": {
+        "semi": true,
+        "tabWidth": 4
+    }
+}
